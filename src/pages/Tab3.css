@@ -1,0 +1,9 @@
+.ion-margin {
+    border: 1px solid #ccc;
+    size: 10px;
+    border-radius: 10px;
+    padding-top: 2rem;
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+    margin-bottom: 2rem;
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Final-Ing-Soft-Ionic-React",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "d0a3085c"
+}
